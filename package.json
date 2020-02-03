@@ -1,0 +1,11 @@
+{
+  "name": "react-snake-game",
+  "version": "1.0.0",
+  "description": "React Snake Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Lyons",
+  "license": "MIT"
+}
